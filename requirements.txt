@@ -1,10 +1,9 @@
 Flask
+requests
 gunicorn
-werkzeug
+mysql-connector-python
 Pillow
 PyMuPDF
 opencv-python-headless
 zxing-cpp
 rapidocr_onnxruntime
-mysql-connector-python
-python-dotenv
