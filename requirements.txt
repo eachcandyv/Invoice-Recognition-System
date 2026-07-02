@@ -10,3 +10,4 @@ opencv-python-headless
 zxing-cpp
 rapidocr_onnxruntime
 pyodbc
+mysql-connector-python
