@@ -5,3 +5,8 @@ Pillow
 PyMuPDF
 firebase-admin
 pyzbar
+gunicorn
+opencv-python-headless
+zxing-cpp
+rapidocr_onnxruntime
+pyodbc
