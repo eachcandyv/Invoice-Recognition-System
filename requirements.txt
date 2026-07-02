@@ -1,8 +1,10 @@
 Flask
 gunicorn
+werkzeug
+Pillow
+PyMuPDF
 opencv-python-headless
 zxing-cpp
 rapidocr_onnxruntime
 mysql-connector-python
-Pillow
-PyMuPDF
+python-dotenv
